@@ -1,0 +1,302 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": ["1) Mumbai", "2) Delhi", "3) Kolkata", "4) Chennai"],
+        "ans": 2
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["1) Elephant", "2) Tiger", "3) Lion", "4) Bear"],
+        "ans": 3
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["1) Earth", "2) Mars", "3) Jupiter", "4) Saturn"],
+        "ans": 3
+    },
+    {
+        "question": "Which fruit is known as the 'king of fruits'?",
+        "options": ["1) Mango", "2) Apple", "3) Banana", "4) Durian"],
+        "ans": 4
+    },
+    {
+        "question": "What do bees produce?",
+        "options": ["1) Milk", "2) Honey", "3) Wax", "4) Silk"],
+        "ans": 2
+    },
+    {
+        "question": "What is the smallest continent?",
+        "options": ["1) Asia", "2) Australia", "3) Europe", "4) Antarctica"],
+        "ans": 2
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["1) Earth", "2) Venus", "3) Mars", "4) Mercury"],
+        "ans": 3
+    },
+    {
+        "question": "What is the main ingredient in bread?",
+        "options": ["1) Rice", "2) Wheat", "3) Corn", "4) Oats"],
+        "ans": 2
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["1) Oxygen", "2) Nitrogen", "3) Carbon Dioxide", "4) Hydrogen"],
+        "ans": 3
+    },
+    {
+        "question": "Which instrument is used to measure temperature?",
+        "options": ["1) Barometer", "2) Thermometer", "3) Hygrometer", "4) Anemometer"],
+        "ans": 2
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["1) 50°C", "2) 75°C", "3) 100°C", "4) 150°C"],
+        "ans": 3
+    },
+    {
+        "question": "Which organ in the human body is responsible for pumping blood?",
+        "options": ["1) Brain", "2) Heart", "3) Lungs", "4) Liver"],
+        "ans": 2
+    },
+    {
+        "question": "Who is the author of 'Harry Potter'?",
+        "options": ["1) J.R.R. Tolkien", "2) J.K. Rowling", "3) Roald Dahl", "4) C.S. Lewis"],
+        "ans": 2
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "options": ["1) Atlantic Ocean", "2) Indian Ocean", "3) Arctic Ocean", "4) Pacific Ocean"],
+        "ans": 4
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["1) Dollar", "2) Yen", "3) Euro", "4) Won"],
+        "ans": 2
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["1) China", "2) Japan", "3) Thailand", "4) India"],
+        "ans": 2
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["1) CO2", "2) H2O", "3) O2", "4) NaCl"],
+        "ans": 2
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": ["1) 5", "2) 6", "3) 7", "4) 8"],
+        "ans": 3
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["1) Gold", "2) Diamond", "3) Iron", "4) Quartz"],
+        "ans": 2
+    },
+    {
+        "question": "Which animal is known as a symbol of wisdom?",
+        "options": ["1) Lion", "2) Owl", "3) Elephant", "4) Fox"],
+        "ans": 2
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": ["1) Berlin", "2) Madrid", "3) Paris", "4) Rome"],
+        "ans": 3
+    },
+    {
+        "question": "Which sport is known as the 'king of sports'?",
+        "options": ["1) Football", "2) Basketball", "3) Cricket", "4) Tennis"],
+        "ans": 1
+    },
+    {
+        "question": "What is the national flower of India?",
+        "options": ["1) Rose", "2) Lotus", "3) Sunflower", "4) Marigold"],
+        "ans": 2
+    },
+    {
+        "question": "Which animal is known for its ability to change colors?",
+        "options": ["1) Chameleon", "2) Tiger", "3) Snake", "4) Frog"],
+        "ans": 1
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": ["1) 6", "2) 8", "3) 10", "4) 12"],
+        "ans": 2
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "options": ["1) Mercury", "2) Venus", "3) Earth", "4) Mars"],
+        "ans": 1
+    },
+    {
+        "question": "What is the main language spoken in Brazil?",
+        "options": ["1) Spanish", "2) Portuguese", "3) English", "4) French"],
+        "ans": 2
+    },
+    {
+        "question": "Which fruit is known for having seeds on the outside?",
+        "options": ["1) Apple", "2) Strawberry", "3) Banana", "4) Grape"],
+        "ans": 2
+    },
+    {
+        "question": "Which gas is essential for human breathing?",
+        "options": ["1) Carbon Dioxide", "2) Oxygen", "3) Nitrogen", "4) Helium"],
+        "ans": 2
+    },
+    {
+        "question": "Which month has 28 days?",
+        "options": ["1) February", "2) April", "3) June", "4) All months"],
+        "ans": 4
+    },
+    {
+        "question": "Who was the first person to walk on the moon?",
+        "options": ["1) Neil Armstrong", "2) Buzz Aldrin", "3) Yuri Gagarin", "4) John Glenn"],
+        "ans": 1
+    },
+    {
+        "question": "What is the largest land animal?",
+        "options": ["1) Giraffe", "2) Elephant", "3) Hippopotamus", "4) Rhino"],
+        "ans": 2
+    },
+    {
+        "question": "Which continent is known as the Dark Continent?",
+        "options": ["1) Asia", "2) Africa", "3) Europe", "4) South America"],
+        "ans": 2
+    },
+    {
+        "question": "What is the capital of the United States?",
+        "options": ["1) New York", "2) Washington, D.C.", "3) Los Angeles", "4) Chicago"],
+        "ans": 2
+    },
+    {
+        "question": "Which holiday is celebrated on December 25th?",
+        "options": ["1) Halloween", "2) Thanksgiving", "3) Christmas", "4) New Year"],
+        "ans": 3
+    },
+    {
+        "question": "Which is the fastest land animal?",
+        "options": ["1) Lion", "2) Cheetah", "3) Horse", "4) Gazelle"],
+        "ans": 2
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["1) Sydney", "2) Canberra", "3) Melbourne", "4) Brisbane"],
+        "ans": 2
+    },
+    {
+        "question": "What is the name of the fairy in Peter Pan?",
+        "options": ["1) Tinkerbell", "2) Cinderella", "3) Snow White", "4) Aurora"],
+        "ans": 1
+    },
+    {
+        "question": "What is the main ingredient in pizza?",
+        "options": ["1) Bread", "2) Rice", "3) Pasta", "4) Salad"],
+        "ans": 1
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "options": ["1) Earth", "2) Venus", "3) Mars", "4) Mercury"],
+        "ans": 4
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["1) K2", "2) Kanchenjunga", "3) Mount Everest", "4) Kilimanjaro"],
+        "ans": 3
+    },
+    {
+        "question": "What type of animal is a dolphin?",
+        "options": ["1) Fish", "2) Mammal", "3) Reptile", "4) Amphibian"],
+        "ans": 2
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["1) Gold", "2) Oxygen", "3) Silver", "4) Iron"],
+        "ans": 2
+    },
+    {
+        "question": "Which country is famous for its pyramids?",
+        "options": ["1) Mexico", "2) China", "3) Egypt", "4) Greece"],
+        "ans": 3
+    },
+    {
+        "question": "What is the main source of energy for the Earth?",
+        "options": ["1) Moon", "2) Sun", "3) Wind", "4) Water"],
+        "ans": 2
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["1) H2O", "2) NaCl", "3) CO2", "4) C6H12O6"],
+        "ans": 2
+    },
+    {
+        "question": "What is the process of plants making food called?",
+        "options": ["1) Respiration", "2) Photosynthesis", "3) Digestion", "4) Transpiration"],
+        "ans": 2
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["1) Vincent van Gogh", "2) Pablo Picasso", "3) Leonardo da Vinci", "4) Claude Monet"],
+        "ans": 3
+    },
+    {
+        "question": "What is the primary language spoken in the United States?",
+        "options": ["1) English", "2) Spanish", "3) French", "4) Mandarin"],
+        "ans": 1
+    },
+    {
+        "question": "What is the fastest aquatic animal?",
+        "options": ["1) Shark", "2) Sailfish", "3) Dolphin", "4) Tuna"],
+        "ans": 2
+    },
+    {
+        "question": "What is the main component of the sun?",
+        "options": ["1) Oxygen", "2) Hydrogen", "3) Helium", "4) Nitrogen"],
+        "ans": 2
+    },
+    {
+        "question": "What is the main organ of the circulatory system?",
+        "options": ["1) Brain", "2) Heart", "3) Liver", "4) Stomach"],
+        "ans": 2
+    },
+    {
+        "question": "What does DNA stand for?",
+        "options": ["1) Deoxyribonucleic Acid", "2) Dioxyribonucleic Acid", "3) Deoxyribonuclear Acid", "4) Dioxyribonuclear Acid"],
+        "ans": 1
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": ["1) Moscow", "2) St. Petersburg", "3) Kiev", "4) Minsk"],
+        "ans": 1
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "options": ["1) Amazon", "2) Nile", "3) Yangtze", "4) Mississippi"],
+        "ans": 2
+    },
+    {
+        "question": "What is the primary diet of pandas?",
+        "options": ["1) Meat", "2) Fish", "3) Bamboo", "4) Fruits"],
+        "ans": 3
+    },
+    {
+        "question": "What does a seismograph measure?",
+        "options": ["1) Temperature", "2) Earthquakes", "3) Wind speed", "4) Rainfall"],
+        "ans": 2
+    },
+    {
+        "question": "What is the main ingredient in chocolate?",
+        "options": ["1) Sugar", "2) Cocoa", "3) Milk", "4) Vanilla"],
+        "ans": 2
+    },
+    {
+        "question": "Which gas is produced when you breathe out?",
+        "options": ["1) Oxygen", "2) Carbon Dioxide", "3) Nitrogen", "4) Helium"],
+        "ans": 2
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["1) Gold", "2) Mercury", "3) Iron", "4) Silver"],
+        "ans": 2
+    }
+]
