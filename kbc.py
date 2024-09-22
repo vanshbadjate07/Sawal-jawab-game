@@ -1,7 +1,7 @@
 import json
 import random
 
-f = open("/questions.json", 'r')#write path of jason file correctly
+f = open("/questions.json", 'r')#write path of json file correctly
 questions = json.load(f)
 f.close() 
 
